@@ -1,0 +1,31 @@
+
+[
+    {
+        "name": "Bike",
+        "img": "https://i.ibb.co/3kfJx4r/bike.png",
+        "id": 1,
+        "availablity": 20,
+        "price":100
+    },
+    {
+        "name": "Bus",
+        "img": "https://i.ibb.co/KXQN1pX/bus.png",
+        "id": 2,
+        "availablity": 10,
+        "price": 20
+    },
+    {
+        "name": "Car",
+        "img": "https://i.ibb.co/jHd5Bd2/car.png",
+        "id": 3,
+        "availablity": 8,
+        "price": 50
+    },
+    {
+        "name": "Train",
+        "img": "https://i.ibb.co/4mmxbH0/train.png",
+        "id": 4,
+        "availablity": 5,
+        "price": 10
+    }
+]
